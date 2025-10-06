@@ -8,7 +8,6 @@
 - 🌱 Currently exploring **Spring Security** and **Cloud-native architectures**  
 - 💬 Ask me about **Java, REST APIs, Microservices, React**  
 - 📫 Reach me at: **ngahuynhit@gmail.com**  
-- 📄 View my resume: [Resume Link](https://www.overleaf.com/read/jrkcghpkjnsv#dfe4b8)  
 - 🌐 Portfolio & projects: [GitHub Profile](https://github.com/PhuocNga)  
 
 ---
